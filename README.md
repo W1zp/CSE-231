@@ -5,3 +5,5 @@
 # from begineer to real world situation based. This class helped expanded my list
 # of skills and proficiency in Python.
 #
+# Feels free to message me if you have any questions.
+#
